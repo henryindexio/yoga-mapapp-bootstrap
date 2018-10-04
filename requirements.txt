@@ -2,3 +2,4 @@ Flask
 gunicorn
 pandas
 bokeh
+flask_bootstrap
