@@ -1,10 +1,10 @@
-# [Yogee](www.yogee.info)
+# [Yogee](http://www.yogee.info)
 
 Yogee is a web app that finds the best location for your new yoga studio in New York state.
 
 ## Website
 
-[![Yogee Website](https://i.imgur.com/LA19Llk.png)](www.yogee.info)
+[![Yogee Website](https://i.imgur.com/LA19Llk.png)](http://www.yogee.info)
 
 ## Information
 
@@ -19,9 +19,7 @@ Example of a search for locations near "10001.
 ## About Me
 Henry Cham
 
-![test image size](http://www.yogee.info/static/img/H-Cham-Web-126-purple.png){:class="img-responsive"}
-![test image size](http://www.yogee.info/static/img/H-Cham-Web-126-purple.png){:height="50%" width="50%"}
-![test image size](http://www.yogee.info/static/img/H-Cham-Web-126-purple.png){:height="400px" width="400px"}
+<img src="http://www.yogee.info/static/img/H-Cham-Web-126-purple.png" width="400" height="400">
 
 I am a neuroscience graduate student, a data science fellow at Insight, and the creator of Yogee. As a neuroscientist, I learned to find the important information from noisy data using statistical tests and regression analysis. My goal is to applied my knowledge in statistics, machine learning, and data visualization to macroscopic business challenges. In my free time, I enjoy practicing brazilian jiu-jitsu and listening to history podcasts.
 
