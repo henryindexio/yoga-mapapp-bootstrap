@@ -14,7 +14,7 @@ Yoga studio owners can type in the zip code where they want open a new store and
 
 Example of a search for locations near "10001.
 
-![](https://i.imgur.com/JycR91T.png)
+[![Yogee Search](https://i.imgur.com/JycR91T.png)](http://www.yogee.info/#app)
 
 ## About Me
 Henry Cham
