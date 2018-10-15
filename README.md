@@ -4,7 +4,7 @@ Yogee is a web app that finds the best location for your new yoga studio in New 
 
 ## Website
 
-[![Yogee Website](https://i.imgur.com/5F28gsd.png)](https://www.yogee.info)
+[![Yogee Website](https://i.imgur.com/LA19Llk.png)](https://yogee.info)
 
 ## Status
 
