@@ -1,12 +1,10 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+# [Yogee](https://www.yogee.info)
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Yogee is a web app that finds the best location for your new yoga studio in New York state.
 
-## Preview
+## Website
 
-[![Grayscale Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
+[![Yogee Website](https://i.imgur.com/5F28gsd.png)](https://www.yogee.info)
 
 ## Status
 
