@@ -14,12 +14,12 @@ Yoga studio owners can type in the zip code where they want open a new store and
 
 Example of a search for locations near "10001.
 
-[![Yogee Search](https://i.imgur.com/JycR91T.png)]
+[Yogee Search](https://i.imgur.com/JycR91T.png)
 
 ## About Me
 Henry Cham
 
-[![Henry Cham](http://www.yogee.info/static/img/H-Cham-Web-126-purple.png)]
+[Henry Cham](http://www.yogee.info/static/img/H-Cham-Web-126-purple.png =400x400)
 
 I am a neuroscience graduate student, a data science fellow at Insight, and the creator of Yogee. As a neuroscientist, I learned to find the important information from noisy data using statistical tests and regression analysis. My goal is to applied my knowledge in statistics, machine learning, and data visualization to macroscopic business challenges. In my free time, I enjoy practicing brazilian jiu-jitsu and listening to history podcasts.
 
